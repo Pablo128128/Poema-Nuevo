@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 Green
 Red
@@ -10,3 +10,4 @@ Yellow
 Blue
 This are the colors of my Rainbow.
 And the Unicorn.
+Pony
